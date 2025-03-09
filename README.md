@@ -3,7 +3,9 @@
 Welcome to my GitHub profile! 🚀 I'm an Aspiring Data Analyst with a strong enthusiasm for exploring data, deriving insights, and creating compelling visualizations. I believe in the power of data to drive informed decision-making and am eager to apply my skills in real-world scenarios.
 
 
+
 **🌟 About Me**
+
 • 🔍 Data Enthusiast – Passionate about analyzing data to uncover meaningful insights.
 
 • 📊 Visualization Expert – Skilled in building interactive dashboards using Power BI, Tableau, and Excel.
@@ -15,6 +17,7 @@ Welcome to my GitHub profile! 🚀 I'm an Aspiring Data Analyst with a strong en
 • 🗣️ Currently Working On – Enhancing my presentation & communication skills to tell better data stories.
 
 • 📍 Location – Karnataka, India.
+
 
 
 
